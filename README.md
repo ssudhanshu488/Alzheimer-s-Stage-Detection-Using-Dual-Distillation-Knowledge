@@ -106,7 +106,7 @@ python main.py --mode evaluate --output_dir ./snapshots --ax_folder /path/to/ax_
 This project is based on the research paper:
 
 **Title**: Attention-Based Dual Knowledge Distillation for Alzheimer’s Disease Stage Detection Using MRI Scans  
-**Authors**: Sudhanshu Singh, Chandita Barman, Shovan Barman 
+**Authors**: Sudhanshu Singh, Chandita Barman, Shovan Barma
 **Journal**: IEEE Open Journal of Instrumentation and Measurement  
 **Status**: Accepted for publication  
 
